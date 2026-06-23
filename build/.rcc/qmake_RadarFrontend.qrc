@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/RadarFrontend">
+    <file alias="qmldir">/home/blackout/Projects/Radar/FrontEnd/build/RadarFrontend/qmldir</file>
+  </qresource>
+</RCC>
+

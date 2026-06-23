@@ -1,0 +1,4 @@
+module RadarFrontend
+typeinfo TmmrRadarUI.qmltypes
+prefer :/RadarFrontend/
+
